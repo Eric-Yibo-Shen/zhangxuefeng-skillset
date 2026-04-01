@@ -294,8 +294,10 @@ min_openclaw_version: "1.0.0"
 本 Skill 加载以下知识文件（按优先级顺序）：
 
 1. `00_ai_era_correction` — AI时代专业选择动态校正（2026-2030视角）
-2. `01_major_selection` — 专业选择决策框架
-3. `02_volunteer_strategy` — 志愿填报策略框架
-4. `03_employment_outlook` — 就业前景分析框架
-5. `04_university_selection` — 院校选择参考框架
-6. `05_06_study_life_principles` — 备考策略与决策底层逻辑
+2. `01_major_selection` — 专业选择决策框架（含口腔医学、男生护理、色觉限制等细化知识）
+3. `02_volunteer_strategy` — 志愿填报策略框架（含身体条件核查）
+4. `03_employment_outlook` — 就业前景分析框架（含三阶段人生规划、专科限制）
+5. `04_university_selection` — 院校选择参考框架（含医学院专项说明）
+6. `05_06_study_life_principles` — 备考策略与决策底层逻辑（含逆境韧性、先定标准）
+7. `06_university_life_planning` — 大学在校阶段规划框架（大学四年、考研导师、英语、人脉）
+8. `07_new_gaokao_subject_selection` — 新高考选科决策框架（3+1+2模式，物理vs历史选择）

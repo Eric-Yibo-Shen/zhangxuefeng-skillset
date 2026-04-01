@@ -50,6 +50,8 @@
 | [`03_employment_outlook.md`](knowledge/03_employment_outlook.md) | 就业路径分析（五条主路径真实评估） |
 | [`04_university_selection.md`](knowledge/04_university_selection.md) | 院校选择参考框架（各分数段逻辑） |
 | [`05_06_study_life_principles.md`](knowledge/05_06_study_life_principles.md) | 备考策略与决策底层逻辑 |
+| [`06_university_life_planning.md`](knowledge/06_university_life_planning.md) | 大学在校阶段规划（英语、社团、考研导师、人脉） |
+| [`07_new_gaokao_subject_selection.md`](knowledge/07_new_gaokao_subject_selection.md) | 新高考选科决策（3+1+2模式，物理vs历史） |
 
 ### 方式二：部署为 OpenClaw Skills（推荐·接入微信）
 
@@ -85,13 +87,15 @@ zhangxuefeng-skillset/
 ├── skills/
 │   └── gaokao-mentor.skill      # OpenClaw 可直接安装的 skill
 │
-├── knowledge/                   # 核心知识库（6个模块，完全原创表述）
+├── knowledge/                   # 核心知识库（8个模块，完全原创表述）
 │   ├── 00_ai_era_correction.md  # AI时代校正框架 ⭐
 │   ├── 01_major_selection.md
 │   ├── 02_volunteer_strategy.md
 │   ├── 03_employment_outlook.md
 │   ├── 04_university_selection.md
-│   └── 05_06_study_life_principles.md
+│   ├── 05_06_study_life_principles.md
+│   ├── 06_university_life_planning.md   # 大学在校规划（新增）
+│   └── 07_new_gaokao_subject_selection.md  # 新高考选科（新增）
 │
 ├── prompts/
 │   └── system_prompt.md         # AI顾问系统提示词（含四步决策框架）
