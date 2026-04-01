@@ -298,6 +298,6 @@ min_openclaw_version: "1.0.0"
 3. `02_volunteer_strategy` — 志愿填报策略框架（含身体条件核查）
 4. `03_employment_outlook` — 就业前景分析框架（含三阶段人生规划、专科限制）
 5. `04_university_selection` — 院校选择参考框架（含医学院专项说明）
-6. `05_06_study_life_principles` — 备考策略与决策底层逻辑（含逆境韧性、先定标准）
+6. `05_study_life_principles` — 备考策略与决策底层逻辑（含逆境韧性、先定标准）
 7. `06_university_life_planning` — 大学在校阶段规划框架（大学四年、考研导师、英语、人脉）
 8. `07_new_gaokao_subject_selection` — 新高考选科决策框架（3+1+2模式，物理vs历史选择）

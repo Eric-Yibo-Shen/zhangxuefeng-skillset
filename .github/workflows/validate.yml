@@ -24,7 +24,7 @@ jobs:
             "knowledge/02_volunteer_strategy.md"
             "knowledge/03_employment_outlook.md"
             "knowledge/04_university_selection.md"
-            "knowledge/05_06_study_life_principles.md"
+            "knowledge/05_study_life_principles.md"
             "prompts/system_prompt.md"
             "skills/gaokao-mentor.skill"
           )
