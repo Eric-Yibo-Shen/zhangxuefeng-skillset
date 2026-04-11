@@ -38,6 +38,14 @@
 
 ## 快速开始
 
+### 方式零：一键安装到 Claude Code（最快）
+
+```bash
+npx skills add Eric-Yibo-Shen/zhangxuefeng-skillset
+```
+
+安装后在 Claude Code 中直接调用 `/gaokao-mentor` 即可对话。
+
 ### 方式一：直接阅读知识库
 
 进入 [`knowledge/`](knowledge/) 目录，按需阅读：
